@@ -1,11 +1,13 @@
 #!/usr/bin/env python
 from betfair import Betfair
+import sys
 
 print "HugeHard Test Script"
-client = Betfair('fxmlhjiDhNghfmLP', 'certs/betfair.pem')
+client = Betfair('fxmlhjiDhNghfmLP', '/home/shang/git/betfair.py/certs/betfair.pem')
 client.login('shang1982@gmail.com', 'wabjtam@123')
 print 'login successful'
 
+sys.exit 
 
 from betfair.models import MarketFilter
 event_types = client.list_event_types(
