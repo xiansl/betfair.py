@@ -1,0 +1,594 @@
+HugeHard Test Script
+login successful
+id:28149165, name=Philadelphia 76ers @ Los Angeles Lakers, market_count:12
+    - market: id=1.130295530, name=U/O 231.5pts
+    - - marketbook: id=1.130295530, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=263.45
+    - - - runner: id=1070713, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.03, size=16.13
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(back): price=1.01, size=16.13
+    - - - runner: id=1070714, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.03, size=182.8
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(back): price=1.01, size=16.13
+    - market: id=1.130295531, name=1st Half - Total Points
+    - - marketbook: id=1.130295531, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=1299105, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=1299106, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130295528, name=U/O 221.5pts
+    - - marketbook: id=1.130295528, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=3560.22
+    - - - runner: id=375189, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.84, size=963.06
+    - - - - exchangeprice(back): price=1.03, size=16.13
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(lay): price=2.08, size=16.76
+    - - - - exchangeprice(lay): price=2.1, size=792.28
+    - - - runner: id=375190, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.94, size=17.18
+    - - - - exchangeprice(back): price=1.92, size=864.87
+    - - - - exchangeprice(back): price=1.03, size=17.82
+    - - - - exchangeprice(lay): price=2.2, size=805.74
+    - market: id=1.130293140, name=Moneyline
+    - - marketbook: id=1.130293140, status=OPEN, delay=True, bet_delay=0, total_matched=130.2, total_available=4482.8
+    - - - runner: id=237473, handicap=0.0, status=ACTIVE, lastprice=2.56, total_matched=0.0
+    - - - - exchangeprice(back): price=2.44, size=17.97
+    - - - - exchangeprice(back): price=2.42, size=122.0
+    - - - - exchangeprice(back): price=2.36, size=29.64
+    - - - - exchangeprice(lay): price=2.62, size=31.31
+    - - - - exchangeprice(lay): price=2.64, size=538.41
+    - - - - exchangeprice(lay): price=2.68, size=149.93
+    - - - runner: id=5368712, handicap=0.0, status=ACTIVE, lastprice=1.64, total_matched=0.0
+    - - - - exchangeprice(back): price=1.62, size=50.21
+    - - - - exchangeprice(back): price=1.61, size=447.94
+    - - - - exchangeprice(back): price=1.6, size=688.76
+    - - - - exchangeprice(lay): price=1.66, size=16.13
+    - - - - exchangeprice(lay): price=1.71, size=183.35
+    - - - - exchangeprice(lay): price=1.74, size=40.21
+    - market: id=1.130295529, name=U/O 211.5pts
+    - - marketbook: id=1.130295529, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=289.09
+    - - - runner: id=337069, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.03, size=208.44
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(back): price=1.01, size=16.13
+    - - - runner: id=337070, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.03, size=16.13
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(back): price=1.01, size=16.13
+    - market: id=1.130293141, name=1st Half - Moneyline
+    - - marketbook: id=1.130293141, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=237473, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=5368712, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130295526, name=1st Quarter - Point Spread
+    - - marketbook: id=1.130295526, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=7888495, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=2660049, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130293142, name=1st Quarter - Moneyline
+    - - marketbook: id=1.130293142, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=237473, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=5368712, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130293144, name=Winning Margin
+    - - marketbook: id=1.130293144, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=417.62
+    - - - runner: id=12259920, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=3.2, size=36.64
+    - - - - exchangeprice(back): price=3.1, size=38.38
+    - - - - exchangeprice(lay): price=6.8, size=17.0
+    - - - - exchangeprice(lay): price=8.2, size=14.58
+    - - - runner: id=12259918, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=8.0, size=16.13
+    - - - - exchangeprice(back): price=7.6, size=16.13
+    - - - runner: id=12259750, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=2.36, size=59.29
+    - - - - exchangeprice(back): price=2.32, size=61.08
+    - - - - exchangeprice(lay): price=3.9, size=29.65
+    - - - - exchangeprice(lay): price=4.3, size=27.36
+    - - - runner: id=12259751, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=3.3, size=35.05
+    - - - - exchangeprice(back): price=3.2, size=36.64
+    - - - - exchangeprice(lay): price=7.8, size=17.35
+    - - - - exchangeprice(lay): price=8.8, size=12.27
+    - market: id=1.130295524, name=Philadelphia 76ers +4.5
+    - - marketbook: id=1.130295524, status=OPEN, delay=True, bet_delay=0, total_matched=85.24, total_available=4112.0
+    - - - runner: id=7888487, handicap=0.0, status=ACTIVE, lastprice=1.77, total_matched=0.0
+    - - - - exchangeprice(back): price=1.77, size=1244.68
+    - - - - exchangeprice(lay): price=1.99, size=961.92
+    - - - runner: id=7889022, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=2.02, size=947.54
+    - - - - exchangeprice(lay): price=2.3, size=957.86
+    - market: id=1.130295525, name=1st Half - Point Spread
+    - - marketbook: id=1.130295525, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=7888467, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=2660048, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130295532, name=1st Quarter - Total Points
+    - - marketbook: id=1.130295532, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=2692837, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=2692842, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+id:28149167, name=Portland Trail Blazers @ Phoenix Suns, market_count:12
+    - market: id=1.130295508, name=U/O 230.5pts
+    - - marketbook: id=1.130295508, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=4094.16
+    - - - runner: id=2230413, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.79, size=1201.08
+    - - - - exchangeprice(back): price=1.03, size=16.13
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(lay): price=2.02, size=124.83
+    - - - - exchangeprice(lay): price=2.04, size=788.04
+    - - - runner: id=2230414, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.99, size=126.69
+    - - - - exchangeprice(back): price=1.98, size=811.92
+    - - - - exchangeprice(back): price=1.03, size=16.13
+    - - - - exchangeprice(lay): price=2.28, size=942.97
+    - market: id=1.130295509, name=U/O 220.5pts
+    - - marketbook: id=1.130295509, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=204.89
+    - - - runner: id=1052194, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.03, size=124.24
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(back): price=1.01, size=16.13
+    - - - runner: id=1052195, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.03, size=16.13
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(back): price=1.01, size=16.13
+    - market: id=1.130295510, name=U/O 240.5pts
+    - - marketbook: id=1.130295510, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=187.69
+    - - - runner: id=1398711, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.03, size=16.13
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(back): price=1.01, size=16.13
+    - - - runner: id=1398712, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.03, size=107.04
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(back): price=1.01, size=16.13
+    - market: id=1.130295511, name=1st Half - Total Points
+    - - marketbook: id=1.130295511, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=1444828, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=1444829, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130295512, name=1st Quarter - Total Points
+    - - marketbook: id=1.130295512, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=2675372, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=2675373, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130293044, name=Winning Margin
+    - - marketbook: id=1.130293044, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=376.87
+    - - - runner: id=12259785, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=2.46, size=55.22
+    - - - - exchangeprice(back): price=2.42, size=56.79
+    - - - - exchangeprice(lay): price=4.3, size=22.64
+    - - - - exchangeprice(lay): price=4.8, size=20.63
+    - - - runner: id=12259786, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=4.3, size=24.43
+    - - - - exchangeprice(back): price=4.1, size=26.0
+    - - - - exchangeprice(lay): price=25.0, size=9.86
+    - - - runner: id=12257171, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=2.76, size=45.8
+    - - - - exchangeprice(back): price=2.72, size=46.87
+    - - - - exchangeprice(lay): price=5.4, size=18.03
+    - - - - exchangeprice(lay): price=6.2, size=16.23
+    - - - runner: id=12257170, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=5.8, size=16.79
+    - - - - exchangeprice(back): price=5.6, size=17.51
+    - market: id=1.130295504, name=1st Half - Point Spread
+    - - marketbook: id=1.130295504, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=7890002, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=7890003, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130295503, name=Phoenix Suns +2.5
+    - - marketbook: id=1.130295503, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=2260.02
+    - - - runner: id=7889883, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.76, size=1318.18
+    - - - runner: id=7889882, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=2.06, size=176.76
+    - - - - exchangeprice(back): price=2.04, size=765.08
+    - market: id=1.130295505, name=1st Quarter - Point Spread
+    - - marketbook: id=1.130295505, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=7890002, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=7890003, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130293042, name=1st Quarter - Moneyline
+    - - marketbook: id=1.130293042, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=237480, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=237487, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130293041, name=1st Half - Moneyline
+    - - marketbook: id=1.130293041, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=237480, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=237487, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130293040, name=Moneyline
+    - - marketbook: id=1.130293040, status=OPEN, delay=True, bet_delay=0, total_matched=52.81, total_available=15602.0
+    - - - runner: id=237480, handicap=0.0, status=ACTIVE, lastprice=1.86, total_matched=0.0
+    - - - - exchangeprice(back): price=1.86, size=606.81
+    - - - - exchangeprice(back): price=1.84, size=28.46
+    - - - - exchangeprice(back): price=1.8, size=336.09
+    - - - - exchangeprice(lay): price=1.93, size=40.22
+    - - - - exchangeprice(lay): price=1.97, size=271.98
+    - - - - exchangeprice(lay): price=1.99, size=40.11
+    - - - runner: id=237487, handicap=0.0, status=ACTIVE, lastprice=2.2, total_matched=0.0
+    - - - - exchangeprice(back): price=2.08, size=37.32
+    - - - - exchangeprice(back): price=2.04, size=262.5
+    - - - - exchangeprice(back): price=2.02, size=39.51
+    - - - - exchangeprice(lay): price=2.16, size=265.23
+    - - - - exchangeprice(lay): price=2.18, size=254.94
+    - - - - exchangeprice(lay): price=2.2, size=27.6
+id:28149166, name=Cleveland Cavaliers @ Houston Rockets, market_count:14
+    - market: id=1.130295515, name=1st Half - Point Spread
+    - - marketbook: id=1.130295515, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=7888821, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=7891621, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130295516, name=1st Quarter - Point Spread
+    - - marketbook: id=1.130295516, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=7888712, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=7891539, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130295518, name=U/O 230.5pts
+    - - marketbook: id=1.130295518, status=OPEN, delay=True, bet_delay=0, total_matched=897.29, total_available=3556.02
+    - - - runner: id=2230413, handicap=0.0, status=ACTIVE, lastprice=2.12, total_matched=0.0
+    - - - - exchangeprice(back): price=2.04, size=769.6
+    - - - - exchangeprice(back): price=1.03, size=16.13
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(lay): price=2.38, size=795.88
+    - - - runner: id=2230414, handicap=0.0, status=ACTIVE, lastprice=1.74, total_matched=0.0
+    - - - - exchangeprice(back): price=1.73, size=1094.81
+    - - - - exchangeprice(back): price=1.03, size=16.13
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(lay): price=1.97, size=797.11
+    - market: id=1.130295519, name=U/O 220.5pts
+    - - marketbook: id=1.130295519, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=171.97
+    - - - runner: id=1052194, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.03, size=91.32
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(back): price=1.01, size=16.13
+    - - - runner: id=1052195, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.03, size=16.13
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(back): price=1.01, size=16.13
+    - market: id=1.130295520, name=U/O 240.5pts
+    - - marketbook: id=1.130295520, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=190.23
+    - - - runner: id=1398711, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.03, size=16.13
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(back): price=1.01, size=16.13
+    - - - runner: id=1398712, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.03, size=109.58
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(back): price=1.01, size=16.13
+    - market: id=1.130295521, name=1st Half - Total Points
+    - - marketbook: id=1.130295521, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=1444828, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=1444829, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130295522, name=1st Quarter - Total Points
+    - - marketbook: id=1.130295522, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=2675372, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=2675373, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130295514, name=Cleveland Cavaliers +5.5
+    - - marketbook: id=1.130295514, status=OPEN, delay=True, bet_delay=0, total_matched=832.18, total_available=6059.31
+    - - - runner: id=7888708, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=2.02, size=235.53
+    - - - - exchangeprice(back): price=1.99, size=267.9
+    - - - - exchangeprice(back): price=1.98, size=270.58
+    - - - - exchangeprice(lay): price=2.12, size=535.78
+    - - - - exchangeprice(lay): price=2.18, size=794.4
+    - - - runner: id=7891596, handicap=0.0, status=ACTIVE, lastprice=1.84, total_matched=0.0
+    - - - - exchangeprice(back): price=1.9, size=301.77
+    - - - - exchangeprice(back): price=1.89, size=297.5
+    - - - - exchangeprice(back): price=1.85, size=936.1
+    - - - - exchangeprice(lay): price=1.98, size=61.79
+    - - - - exchangeprice(lay): price=1.99, size=177.6
+    - - - - exchangeprice(lay): price=2.02, size=529.16
+    - market: id=1.130297376, name=LeBron James Points
+    - - marketbook: id=1.130297376, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=1499007, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=1499008, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130297377, name=Ryan Anderson Points
+    - - marketbook: id=1.130297377, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=3915337, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=3915338, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130293073, name=Moneyline
+    - - marketbook: id=1.130293073, status=OPEN, delay=True, bet_delay=0, total_matched=534.26, total_available=11713.75
+    - - - runner: id=60424, handicap=0.0, status=ACTIVE, lastprice=3.0, total_matched=0.0
+    - - - - exchangeprice(back): price=3.0, size=255.62
+    - - - - exchangeprice(back): price=2.82, size=160.27
+    - - - - exchangeprice(back): price=2.78, size=22.64
+    - - - - exchangeprice(lay): price=3.3, size=540.45
+    - - - - exchangeprice(lay): price=3.35, size=58.22
+    - - - - exchangeprice(lay): price=3.45, size=264.38
+    - - - runner: id=237488, handicap=0.0, status=ACTIVE, lastprice=1.44, total_matched=0.0
+    - - - - exchangeprice(back): price=1.44, size=630.31
+    - - - - exchangeprice(back): price=1.43, size=748.48
+    - - - - exchangeprice(back): price=1.41, size=646.89
+    - - - - exchangeprice(lay): price=1.5, size=511.25
+    - - - - exchangeprice(lay): price=1.52, size=27.09
+    - - - - exchangeprice(lay): price=1.55, size=266.24
+    - market: id=1.130293074, name=1st Half - Moneyline
+    - - marketbook: id=1.130293074, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=60424, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=237488, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130293075, name=1st Quarter - Moneyline
+    - - marketbook: id=1.130293075, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=60424, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=237488, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130293077, name=Winning Margin
+    - - marketbook: id=1.130293077, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=4213.97
+    - - - runner: id=12259759, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=2.0, size=2900.82
+    - - - runner: id=12259758, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=3.0, size=1313.15
+    - - - runner: id=12259813, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=12259815, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+id:28149169, name=Chicago Bulls @ Boston Celtics, market_count:12
+    - market: id=1.130295490, name=1st Quarter - Total Points
+    - - marketbook: id=1.130295490, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=1152814, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=1152815, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130295483, name=1st Half - Point Spread
+    - - marketbook: id=1.130295483, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=2802164, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=7927493, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130295484, name=1st Quarter - Point Spread
+    - - marketbook: id=1.130295484, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=2802166, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=7889235, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130295482, name=Chicago Bulls +7.5
+    - - marketbook: id=1.130295482, status=OPEN, delay=True, bet_delay=0, total_matched=51.18, total_available=7078.66
+    - - - runner: id=2802162, handicap=0.0, status=ACTIVE, lastprice=1.98, total_matched=0.0
+    - - - - exchangeprice(back): price=1.99, size=144.54
+    - - - - exchangeprice(back): price=1.98, size=131.36
+    - - - - exchangeprice(back): price=1.96, size=538.58
+    - - - - exchangeprice(lay): price=2.06, size=89.14
+    - - - - exchangeprice(lay): price=2.08, size=646.72
+    - - - - exchangeprice(lay): price=2.14, size=259.73
+    - - - runner: id=7889429, handicap=0.0, status=ACTIVE, lastprice=1.95, total_matched=0.0
+    - - - - exchangeprice(back): price=1.94, size=258.74
+    - - - - exchangeprice(back): price=1.93, size=532.05
+    - - - - exchangeprice(back): price=1.89, size=294.08
+    - - - - exchangeprice(lay): price=2.02, size=271.21
+    - - - - exchangeprice(lay): price=2.04, size=21.22
+    - - - - exchangeprice(lay): price=2.06, size=491.41
+    - market: id=1.130295488, name=U/O 218.5pts
+    - - marketbook: id=1.130295488, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=275.35
+    - - - runner: id=3680114, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.03, size=16.13
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(back): price=1.01, size=16.13
+    - - - runner: id=3680115, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.03, size=194.7
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(back): price=1.01, size=16.13
+    - market: id=1.130295489, name=1st Half - Total Points
+    - - marketbook: id=1.130295489, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=406101, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=406102, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130295486, name=U/O 208.5pts
+    - - marketbook: id=1.130295486, status=OPEN, delay=True, bet_delay=0, total_matched=645.44, total_available=6676.56
+    - - - runner: id=259995, handicap=0.0, status=ACTIVE, lastprice=1.97, total_matched=0.0
+    - - - - exchangeprice(back): price=1.95, size=133.01
+    - - - - exchangeprice(back): price=1.94, size=163.82
+    - - - - exchangeprice(back): price=1.89, size=557.0
+    - - - - exchangeprice(lay): price=2.0, size=495.26
+    - - - - exchangeprice(lay): price=2.02, size=133.01
+    - - - - exchangeprice(lay): price=2.04, size=129.1
+    - - - runner: id=259996, handicap=0.0, status=ACTIVE, lastprice=2.04, total_matched=0.0
+    - - - - exchangeprice(back): price=2.0, size=495.26
+    - - - - exchangeprice(back): price=1.98, size=268.71
+    - - - - exchangeprice(back): price=1.94, size=846.48
+    - - - - exchangeprice(lay): price=2.06, size=258.92
+    - - - - exchangeprice(lay): price=2.08, size=21.06
+    - - - - exchangeprice(lay): price=2.14, size=491.95
+    - market: id=1.130295487, name=U/O 198.5pts
+    - - marketbook: id=1.130295487, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=285.46
+    - - - runner: id=245995, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.03, size=204.81
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(back): price=1.01, size=16.13
+    - - - runner: id=245996, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.03, size=16.13
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(back): price=1.01, size=16.13
+    - market: id=1.130293004, name=Moneyline
+    - - marketbook: id=1.130293004, status=OPEN, delay=True, bet_delay=0, total_matched=2514.16, total_available=13276.14
+    - - - runner: id=237494, handicap=0.0, status=ACTIVE, lastprice=4.2, total_matched=0.0
+    - - - - exchangeprice(back): price=4.0, size=136.19
+    - - - - exchangeprice(back): price=3.85, size=92.12
+    - - - - exchangeprice(back): price=3.75, size=376.18
+    - - - - exchangeprice(lay): price=4.2, size=779.34
+    - - - - exchangeprice(lay): price=4.3, size=902.02
+    - - - - exchangeprice(lay): price=4.4, size=141.02
+    - - - runner: id=60427, handicap=0.0, status=ACTIVE, lastprice=1.32, total_matched=0.0
+    - - - - exchangeprice(back): price=1.32, size=2443.72
+    - - - - exchangeprice(back): price=1.31, size=1842.55
+    - - - - exchangeprice(back): price=1.3, size=1640.8
+    - - - - exchangeprice(lay): price=1.33, size=167.55
+    - - - - exchangeprice(lay): price=1.34, size=240.76
+    - - - - exchangeprice(lay): price=1.36, size=802.55
+    - market: id=1.130293006, name=1st Quarter - Moneyline
+    - - marketbook: id=1.130293006, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=237494, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=60427, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130293005, name=1st Half - Moneyline
+    - - marketbook: id=1.130293005, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=237494, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=60427, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130293008, name=Winning Margin
+    - - marketbook: id=1.130293008, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=454.8
+    - - - runner: id=12249010, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=4.3, size=24.43
+    - - - - exchangeprice(back): price=4.1, size=26.0
+    - - - - exchangeprice(lay): price=15.5, size=16.73
+    - - - runner: id=12249011, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=14.0, size=16.13
+    - - - - exchangeprice(back): price=13.0, size=16.13
+    - - - runner: id=12259734, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=2.36, size=59.29
+    - - - - exchangeprice(back): price=2.32, size=61.08
+    - - - - exchangeprice(lay): price=3.7, size=28.39
+    - - - - exchangeprice(lay): price=3.95, size=27.21
+    - - - runner: id=12259733, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=2.36, size=59.29
+    - - - - exchangeprice(back): price=2.32, size=61.08
+    - - - - exchangeprice(lay): price=3.7, size=28.39
+    - - - - exchangeprice(lay): price=3.95, size=27.21
+id:28149168, name=Miami Heat @ Indiana Pacers, market_count:12
+    - market: id=1.130293062, name=Winning Margin
+    - - marketbook: id=1.130293062, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=12259898, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=12259899, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=12234228, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=12234227, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130293060, name=1st Quarter - Moneyline
+    - - marketbook: id=1.130293060, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=237486, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=237481, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130293058, name=Moneyline
+    - - marketbook: id=1.130293058, status=OPEN, delay=True, bet_delay=0, total_matched=38.52, total_available=6970.01
+    - - - runner: id=237486, handicap=0.0, status=ACTIVE, lastprice=2.62, total_matched=0.0
+    - - - - exchangeprice(back): price=2.6, size=25.19
+    - - - - exchangeprice(back): price=2.54, size=31.8
+    - - - - exchangeprice(back): price=2.22, size=27.53
+    - - - - exchangeprice(lay): price=3.0, size=26.88
+    - - - - exchangeprice(lay): price=3.05, size=45.78
+    - - - - exchangeprice(lay): price=3.15, size=20.42
+    - - - runner: id=237481, handicap=0.0, status=ACTIVE, lastprice=1.63, total_matched=0.0
+    - - - - exchangeprice(back): price=1.54, size=16.73
+    - - - - exchangeprice(back): price=1.5, size=34.05
+    - - - - exchangeprice(back): price=1.49, size=93.71
+    - - - - exchangeprice(lay): price=1.63, size=40.18
+    - - - - exchangeprice(lay): price=1.65, size=49.03
+    - - - - exchangeprice(lay): price=1.82, size=34.12
+    - market: id=1.130293059, name=1st Half - Moneyline
+    - - marketbook: id=1.130293059, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=237486, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=237481, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130295499, name=U/O 217.5pts
+    - - marketbook: id=1.130295499, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=96.78
+    - - - runner: id=348153, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.03, size=16.13
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(back): price=1.01, size=16.13
+    - - - runner: id=348154, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.03, size=16.13
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(back): price=1.01, size=16.13
+    - market: id=1.130295498, name=U/O 197.5pts
+    - - marketbook: id=1.130295498, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=96.78
+    - - - runner: id=257000, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.03, size=16.13
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(back): price=1.01, size=16.13
+    - - - runner: id=257001, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.03, size=16.13
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(back): price=1.01, size=16.13
+    - market: id=1.130295501, name=1st Quarter - Total Points
+    - - marketbook: id=1.130295501, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=406106, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=406107, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130295500, name=1st Half - Total Points
+    - - marketbook: id=1.130295500, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=404755, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=404756, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130295493, name=Miami Heat +4.5
+    - - marketbook: id=1.130295493, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=7883600, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=7883514, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130295495, name=1st Quarter - Point Spread
+    - - marketbook: id=1.130295495, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=7883664, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=7883279, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130295494, name=1st Half - Point Spread
+    - - marketbook: id=1.130295494, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=7883601, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=7883379, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130295497, name=U/O 207.5pts
+    - - marketbook: id=1.130295497, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=96.78
+    - - - runner: id=250353, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.03, size=16.13
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(back): price=1.01, size=16.13
+    - - - runner: id=250352, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.03, size=16.13
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(back): price=1.01, size=16.13
+id:28149170, name=New York Knicks @ Brooklyn Nets, market_count:12
+    - market: id=1.130296709, name=Brooklyn Nets +1.5
+    - - marketbook: id=1.130296709, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=3894.73
+    - - - runner: id=7888940, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.86, size=16.15
+    - - - - exchangeprice(back): price=1.84, size=947.25
+    - - - - exchangeprice(lay): price=2.06, size=30.32
+    - - - - exchangeprice(lay): price=2.08, size=992.35
+    - - - runner: id=7901064, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.95, size=31.91
+    - - - - exchangeprice(back): price=1.93, size=857.26
+    - - - - exchangeprice(back): price=1.92, size=213.32
+    - - - - exchangeprice(lay): price=2.2, size=806.12
+    - market: id=1.130296710, name=1st Half - Point Spread
+    - - marketbook: id=1.130296710, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=7888940, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=7901064, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130296711, name=1st Quarter - Point Spread
+    - - marketbook: id=1.130296711, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=7888940, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=7901064, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130296704, name=U/O 211.5pts
+    - - marketbook: id=1.130296704, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=193.87
+    - - - runner: id=337069, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.03, size=113.22
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(back): price=1.01, size=16.13
+    - - - runner: id=337070, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.03, size=16.13
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(back): price=1.01, size=16.13
+    - market: id=1.130296703, name=U/O 221.5pts
+    - - marketbook: id=1.130296703, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=3895.31
+    - - - runner: id=375189, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.85, size=159.09
+    - - - - exchangeprice(back): price=1.83, size=958.66
+    - - - - exchangeprice(back): price=1.03, size=16.13
+    - - - - exchangeprice(lay): price=2.08, size=846.28
+    - - - runner: id=375190, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.94, size=907.36
+    - - - - exchangeprice(back): price=1.03, size=16.13
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(lay): price=2.18, size=135.06
+    - - - - exchangeprice(lay): price=2.22, size=790.24
+    - market: id=1.130296705, name=U/O 231.5pts
+    - - marketbook: id=1.130296705, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=186.07
+    - - - runner: id=1070713, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.03, size=16.13
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(back): price=1.01, size=16.13
+    - - - runner: id=1070714, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=0.0
+    - - - - exchangeprice(back): price=1.03, size=105.42
+    - - - - exchangeprice(back): price=1.02, size=16.13
+    - - - - exchangeprice(back): price=1.01, size=16.13
+    - market: id=1.130296706, name=1st Half - Total Points
+    - - marketbook: id=1.130296706, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=1299105, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=1299106, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130296707, name=1st Quarter - Total Points
+    - - marketbook: id=1.130296707, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=2692837, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=2692842, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130293027, name=Moneyline
+    - - marketbook: id=1.130293027, status=OPEN, delay=True, bet_delay=0, total_matched=1056.86, total_available=8952.98
+    - - - runner: id=237482, handicap=0.0, status=ACTIVE, lastprice=1.9, total_matched=0.0
+    - - - - exchangeprice(back): price=1.9, size=234.14
+    - - - - exchangeprice(back): price=1.88, size=35.64
+    - - - - exchangeprice(back): price=1.86, size=153.87
+    - - - - exchangeprice(lay): price=1.98, size=20.14
+    - - - - exchangeprice(lay): price=2.02, size=43.09
+    - - - - exchangeprice(lay): price=2.04, size=362.9
+    - - - runner: id=6500320, handicap=0.0, status=ACTIVE, lastprice=2.12, total_matched=0.0
+    - - - - exchangeprice(back): price=2.02, size=19.6
+    - - - - exchangeprice(back): price=1.99, size=43.69
+    - - - - exchangeprice(back): price=1.98, size=148.52
+    - - - - exchangeprice(lay): price=2.12, size=209.84
+    - - - - exchangeprice(lay): price=2.14, size=31.35
+    - - - - exchangeprice(lay): price=2.18, size=131.28
+    - market: id=1.130293028, name=1st Half - Moneyline
+    - - marketbook: id=1.130293028, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=237482, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=6500320, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130293029, name=1st Quarter - Moneyline
+    - - marketbook: id=1.130293029, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=237482, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=6500320, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - market: id=1.130293031, name=Winning Margin
+    - - marketbook: id=1.130293031, status=OPEN, delay=True, bet_delay=0, total_matched=0.0, total_available=0.0
+    - - - runner: id=12259888, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=12259887, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=12259775, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+    - - - runner: id=12259776, handicap=0.0, status=ACTIVE, lastprice=None, total_matched=None
+logout successful

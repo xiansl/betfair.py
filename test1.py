@@ -7,8 +7,6 @@ client = Betfair('fxmlhjiDhNghfmLP', '/home/shang/git/betfair.py/certs/betfair.p
 client.login('shang1982@gmail.com', 'wabjtam@123')
 print 'login successful'
 
-sys.exit 
-
 from betfair.models import MarketFilter
 event_types = client.list_event_types(
     MarketFilter(text_query='soccer')
