@@ -1,0 +1,53 @@
+
+SportID	SportName
+1	Soccer
+2	Tennis
+3	Golf
+4	Cricket
+5	Rugby Union
+6	Boxing
+7	Horse Racing
+8	Motor Sport
+10	Special Bets
+11	Cycling
+12	Rowing
+13	Horse Racing - Todays Card
+14	Soccer - Fixtures
+15	Greyhound - Todays Card
+1477	Rugby League
+3503	Darts
+3988	Athletics
+4339	Greyhound Racing
+6231	Financial Bets
+6422	Snooker
+6423	American Football
+7511	Baseball
+7522	Basketball
+7523	Hockey
+7524	Ice Hockey
+7525	Sumo Wrestling
+61420	Australian Rules
+66598	Gaelic Football
+66599	Hurling
+72382	Pool
+136332	Chess
+256284	Trotting
+300000	Commonwealth Games
+315220	Poker
+451485	Winter Sports
+468328	Handball
+627555	Badminton
+678378	International Rules
+982477	Bridge
+998917	Volleyball
+998919	Bowls
+998920	Floorball
+606611	Netball
+998916	Yachting
+620576	Swimming
+1444073	Exchange Poker
+1938544	Backgammon
+2030972	GAA Sports
+2152880	Gaelic Games
+2264869	International Markets
+2378961	Politics
